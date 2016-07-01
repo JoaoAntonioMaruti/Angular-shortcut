@@ -1,6 +1,10 @@
 # ShortcutJS from AngularJS 1.x.x
 
 #### Version 0.0.1
+### install
+```shell
+bower install ShortcutJS
+```
 ### How to use
  Add module
 ```javascript
